@@ -20,9 +20,9 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 This Sprint Challenge is split into three parts:
 
-1. Implement a data structure called a ring buffer (more details below)
-2. Optimizing some inefficient code
-3. Reversing the contents of a singly linked list
+1. [X] Implement a data structure called a ring buffer (more details below)
+2. [X] Optimizing some inefficient code
+3. [X] Reversing the contents of a singly linked list
 
 ### Minimum Viable Product
 
@@ -32,7 +32,7 @@ A ring buffer is a non-growable buffer with a fixed size. When the ring buffer i
 
 Implement this behavior in the RingBuffer class. RingBuffer has two methods, `append` and `get`. The `append` method adds elements to the buffer. The `get` method, which is provided, returns all of the elements in the buffer in a list in their given order. It should not return any `None` values in the list even if they are present in the ring buffer.
 
-_You may not use a Python List in your implementation of the `append` method (except for the stretch goal)_
+[X] _You may not use a Python List in your implementation of the `append` method (except for the stretch goal)_
 
 *Stretch Goal*:  Another method of implementing a ring buffer uses an array (Python List) instead of a linked list.  What are the advantages and disadvantages of using this method?  What disadvantage normally found in arrays is overcome with this arrangement?
 
@@ -68,7 +68,7 @@ Navigate into the `names` directory. Here you will find two text files containin
 
 Six seconds is an eternity so you've been tasked with speeding up the code. Can you get the runtime to under a second? Under one hundredth of a second?
 
-*You may not use the built in Python list, set, or dictionary in your solution for this problem.  However, you can and should use the provided `duplicates` list to return your solution.*
+[X] *You may not use the built in Python list, set, or dictionary in your solution for this problem.  However, you can and should use the provided `duplicates` list to return your solution.*
 
 (Hint: You might try importing a data structure you built during the week)
 
