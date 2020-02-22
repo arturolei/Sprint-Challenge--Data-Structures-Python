@@ -21,7 +21,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 This Sprint Challenge is split into three parts:
 
 1. [] Implement a data structure called a ring buffer (more details below)
-2. [] Optimizing some inefficient code
+2. [X] Optimizing some inefficient code
 3. [X] Reversing the contents of a singly linked list
 
 ### Minimum Viable Product
